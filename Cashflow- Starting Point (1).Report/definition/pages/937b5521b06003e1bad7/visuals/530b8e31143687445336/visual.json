@@ -266,7 +266,7 @@
             "value": {
               "expr": {
                 "Literal": {
-                  "Value": "546.573459186148D"
+                  "Value": "560.1600835775752D"
                 }
               }
             }
@@ -352,6 +352,20 @@
           },
           "selector": {
             "metadata": "Data._DeltaPY%"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "163.87878787878788D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Data._AC"
           }
         }
       ],
